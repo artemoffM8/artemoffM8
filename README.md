@@ -22,12 +22,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=artemoffM8&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemoffM8&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://komarev.com/ghpvc/?username=artemoffM8&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/artemoffM8?style=for-the-badge&color=blueviolet&labelColor=1a1b27" alt="Followers" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artemoffM8&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=artemoffM8&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center"><i>Always learning. Always building.</i></p>
