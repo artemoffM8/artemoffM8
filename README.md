@@ -8,14 +8,21 @@
 - 💬 Ask me about Python, Node.js, React and Swift.
 - 🎯 I love turning ideas into clean, working products.
 
+## 🎯 Featured project
+
+### [NAMI — anxiety-free Sudoku for iOS](https://github.com/artemoffM8/nami)
+
+SwiftUI + SwiftData, iOS 18+. A human-style solver reproducing **21 techniques**, deterministic integer-only scoring, an append-only game journal, audio synthesized in code (FM, Karplus–Strong), and a custom project verifier running **2,900+ checks**. 139 tests. [Read the engineering story →](https://github.com/artemoffM8/nami#whats-interesting-here-engineering-wise)
+
 ## 🛠️ Tech Stack
 
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D84FF?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -24,6 +31,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=artemoffM8&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/artemoffM8?style=for-the-badge&color=blueviolet&labelColor=1a1b27" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/artemoffM8?style=for-the-badge&color=blueviolet&labelColor=1a1b27" alt="Stars" />
 </p>
 
 <p align="center">
