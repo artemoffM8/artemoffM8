@@ -1,41 +1,42 @@
-<h1 align="center">Hi, I'm artemoffM8 👋</h1>
-<p align="center">Fullstack developer · always learning something new</p>
-
-## 🚀 About me
-
-- 🔭 I build across the stack — web frontend, backend and iOS.
-- 🌱 Currently sharpening my skills every single day.
-- 💬 Ask me about Python, Node.js, React and Swift.
-- 🎯 I love turning ideas into clean, working products.
-
-## 🎯 Featured project
-
-### [NAMI — anxiety-free Sudoku for iOS](https://github.com/artemoffM8/nami)
-
-SwiftUI + SwiftData, iOS 18+. A human-style solver reproducing **21 techniques**, deterministic integer-only scoring, an append-only game journal, audio synthesized in code (FM, Karplus–Strong), and a custom project verifier running **2,900+ checks**. 139 tests. [Read the engineering story →](https://github.com/artemoffM8/nami#whats-interesting-here-engineering-wise)
-
-## 🛠️ Tech Stack
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D84FF?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-
+<h1 align="center">artemoffM8 · Software Engineering & Applied AI</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=artemoffM8&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/artemoffM8?style=for-the-badge&color=blueviolet&labelColor=1a1b27" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/artemoffM8?style=for-the-badge&color=blueviolet&labelColor=1a1b27" alt="Stars" />
+  Building reliable software, thoughtful product experiences, and systems where algorithms and AI have clearly defined roles.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=artemoffM8&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <a href="https://github.com/artemoffM8/nami">Featured iOS project</a> ·
+  <a href="#engineering-interests">Engineering interests</a> ·
+  <a href="#selected-work">Selected work</a>
 </p>
 
-<p align="center"><i>Always learning. Always building.</i></p>
+---
+
+### About
+
+I work across application development, backend systems, and algorithm-heavy projects. I care about reproducible results, clear boundaries between components, meaningful tests, and documentation that explains *why* a system works—not just how to run it.
+
+### Selected work
+
+#### [NAMI — a calmer Sudoku experience for iOS](https://github.com/artemoffM8/nami)
+
+A native iOS Sudoku app built with **SwiftUI** and **SwiftData**. Its engineering work includes a human-technique solver, deterministic integer-based scoring, an append-only game journal, and programmatically synthesized audio.
+
+- **Algorithm design:** 21 human-solving techniques, with regression checks against a Python reference implementation.
+- **Reliability:** deterministic scoring and verification-focused development.
+- **Product thinking:** layered hints and technique training instead of pressure-driven game mechanics.
+- **Explore:** [engineering case study](https://github.com/artemoffM8/nami/blob/main/docs/ENGINEERING_CASE_STUDY.md) · [source, screenshots, and detailed README](https://github.com/artemoffM8/nami).
+
+### Engineering interests
+
+**Backend & data:** Python, typed interfaces, data pipelines, testing, and automation.  
+**Applied AI:** LLM-assisted analysis with structured outputs, explicit validation, and human-readable evidence.  
+**Apps & UX:** Swift, SwiftUI, product design, and understandable user experiences.  
+**Engineering practice:** reproducibility, CI, observability, and clear technical documentation.
+
+### More to come
+
+Additional backend, research, and AI-system case studies are being prepared for public presentation. I prefer to share projects with accurate documentation and clear limitations rather than publish unfinished claims.
+
+---
+
+<sub>Open to discussing engineering projects and collaboration through GitHub.</sub>
