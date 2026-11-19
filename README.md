@@ -24,7 +24,7 @@ A native iOS Sudoku app built with **SwiftUI** and **SwiftData**. Its engineerin
 - **Algorithm design:** 21 human-solving techniques, with regression checks against a Python reference implementation.
 - **Reliability:** deterministic scoring and verification-focused development.
 - **Product thinking:** layered hints and technique training instead of pressure-driven game mechanics.
-- **Explore:** [repository, screenshots, and technical deep dive](https://github.com/artemoffM8/nami#whats-interesting-here-engineering-wise).
+- **Explore:** [engineering case study](https://github.com/artemoffM8/nami/blob/main/docs/ENGINEERING_CASE_STUDY.md) · [source, screenshots, and detailed README](https://github.com/artemoffM8/nami).
 
 ### Engineering interests
 
