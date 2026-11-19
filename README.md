@@ -1,4 +1,4 @@
-<h1 align="center">Artem · Software Engineering & Applied AI</h1>
+<h1 align="center">artemoffM8 · Software Engineering & Applied AI</h1>
 <p align="center">
   Building reliable software, thoughtful product experiences, and systems where algorithms and AI have clearly defined roles.
 </p>
