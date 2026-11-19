@@ -1,0 +1,5 @@
+[
+  {"task_id":"synthetic-001","agent":"hermes","verified_success":true,"cost_usd":1.25},
+  {"task_id":"synthetic-001","agent":"codex","verified_success":false,"cost_usd":0.80},
+  {"task_id":"synthetic-001","agent":"claude-code","verified_success":true,"cost_usd":1.50}
+]
