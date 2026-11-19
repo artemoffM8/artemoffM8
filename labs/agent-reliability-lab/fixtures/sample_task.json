@@ -1,0 +1,12 @@
+{
+  "task_id": "synthetic-001",
+  "revision": "v1",
+  "repository": "synthetic/example",
+  "base_commit": "0000000000000000000000000000000000000000",
+  "time_limit_seconds": 7200,
+  "cost_limit_usd": 5,
+  "evaluation": {
+    "test_command": ["python3", "-m", "unittest", "discover"],
+    "network": "deny"
+  }
+}
